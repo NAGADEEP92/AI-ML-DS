@@ -1,4 +1,1 @@
-Hi  
-
-
-You can find AI ML LLM applications
+ AI ML LLM applications
